@@ -1,0 +1,19 @@
+.menu, .logo {
+	display: inline-block;
+	vertical-align: middle;
+}
+.menu {
+	width: 800px;
+}
+.menu a {
+	text-transform: uppercase;
+	text-align: center;
+	margin: 30px;
+	font: 22px Arial, sans-serif;
+	text-decoration: none;
+}
+.logo {
+	width: 200px;
+	height: 183px;
+	background-image: url("logo.jpg");
+}
