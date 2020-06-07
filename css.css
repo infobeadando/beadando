@@ -17,3 +17,30 @@
 	height: 183px;
 	background-image: url("logo.jpg");
 }
+
+body {
+	background-color: green;
+	color: #A59361;
+	font-weight: bold;
+}
+
+.wrapper {
+	background-image: url("fu.jpg");
+	outline: #A59361 solid 3px;
+}
+
+h1 {
+	text-transform: uppercase;
+}
+
+a:active {
+	color: green;
+}
+
+a:visited {
+	color: blue;
+}
+
+a:hover {
+	color:red;
+}
